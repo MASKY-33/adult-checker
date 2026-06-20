@@ -2,6 +2,7 @@
 # - asks user's age
 # - checks (if) user is adult, (else) not adult
 
+
 user_age = int(input("Give in your age: "))
 
 if user_age >= 25:
